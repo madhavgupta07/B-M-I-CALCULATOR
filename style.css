@@ -1,0 +1,72 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    font-weight: bolder;
+}
+.hero{
+    margin: 3.5rem;
+    text-align: center;
+    font-size: 2rem;
+}
+#main-bmi{
+    margin-left: auto;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.main-div{
+    background-color: liner;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid red;
+    border-radius: 20px;
+    box-shadow: 3px 5px rgb(207, 207, 207) ;
+}
+.label{
+    padding: 2px;
+    font-size: 30px;
+    align-items: center;
+    text-align: center;
+}
+.hero2{
+    padding: 8px;
+    /* width: 68%; */
+    margin: auto;
+    border-radius: 10px;
+}
+#btn{
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgb(175, 168, 168);
+    width: 10vw;
+    margin: auto;
+    /* margin-left: 45.5px; */
+}
+.danger{
+    color: red;
+    /* margin: auto; */
+    text-align: center;
+    font-size: 26px;
+}
+.result{
+    /* margin-left: 40px; */
+    text-align: center;
+}
+.result2{
+    font-size: 19px;
+}
+.white{
+    background-color: white;
+}
+.red{
+    background-color: rgb(175, 64, 64);
+}
+.yellow{
+    background-color: rgb(175, 175, 42);
+}
+.green{
+   background-color:  #5EB21F;
+}
